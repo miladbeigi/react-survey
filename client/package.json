@@ -5,7 +5,7 @@
   "dependencies": {
     "@fontsource/roboto": "^4.4.5",
     "@mui/material": "^5.0.0",
-    "@material-ui/icons": "^4.11.2",
+    "@mui/icons-material": "^5.0.0",
     "@material-ui/lab": "^4.0.0-alpha.58",
     "@testing-library/jest-dom": "^5.13.0",
     "@testing-library/react": "^11.2.7",
